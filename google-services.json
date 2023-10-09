@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393787916726",
+    "project_id": "habshadelivary",
+    "storage_bucket": "habshadelivary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393787916726:android:bb67c6c106886388cf8117",
+        "android_client_info": {
+          "package_name": "top.habsha.habshadelivary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPUMlPP6b5Xa0GDeGgz9wq4K7q8QGlOVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
